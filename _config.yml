@@ -28,7 +28,7 @@ github_url: "https://github.com/scany1211" # the base hostname & protocol for yo
 url: https://awesome
 twitter_username: jekyllrb
 github_username:  jekyll
-
+timezone: Asia/Shanghai
 # Build settings
 theme: minima
 plugins:
